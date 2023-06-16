@@ -7,9 +7,14 @@ bblabNTU/.github is a ✨special ✨ repository that you can use to add README.m
 Make sure it’s public and and initialize it with a README in the profile directory to get started.
 -->
 ![Biophotonics & Bioimaging Laboratory](assets/logo.png)
-<img src="assets/logo.png" />
+
 ## Hi! We are BBLab!
-### TODO
-- 🙋‍♀️ A short introduction - what is your organization all about?
-- 🌈 Contribution guidelines - how can the community get involved?
-- 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+### Laboratory Location
+- 🏫 Department of Biomechatronics Engineering, National Taiwan University
+### 🔬 Research Area
+- 🦟 Pest Team
+- 🐄 Cow Team
+- 🐝 Bee Team
+- ✈️ UAV Team
+### Instructor
+- Professor Lin, Ta-Te
