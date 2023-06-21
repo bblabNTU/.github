@@ -6,7 +6,7 @@ For member-only README.md, please visit '.github-private' repository.
 bblabNTU/.github is a ✨special ✨ repository that you can use to add README.md to your public organization profile, visible to anyone. 
 Make sure it’s public and and initialize it with a README in the profile directory to get started.
 -->
-![Biophotonics & Bioimaging Laboratory](assets/logo.png)
+![Biophotonics & Bioimaging Laboratory](assets/logo_whiteBG_rounded.png)
 
 ## Hi! We are BBLab!
 ### Laboratory Location
